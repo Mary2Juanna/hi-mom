@@ -4,7 +4,7 @@ A blazingly fast JavaScript library to say hi to your mom!
 
 ## Install
 
-#### yarn
+#### YARN
 
 ```bash
 yarn add hi-mom
