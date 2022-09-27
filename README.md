@@ -1,4 +1,4 @@
-# Hi, mom!
+# Hi, mUmmmy!
 
 A blazingly fast JavaScript library to say hi to your mom!
 
